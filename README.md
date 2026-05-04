@@ -1,3 +1,4 @@
+https://doi.org/10.5281/zenodo.20018046
 # Restricted Inverse Optimal Median Objective Problem on Trees
 This repository contains the official Python implementation and benchmarking source code for the algorithms proposed in the paper:
 **"Restricted Inverse Optimal Median Objective Problem on Trees under Chebyshev Norm and Hamming Distance"** (Nguyen et al., 2026).
